@@ -3,6 +3,8 @@ ace files without cdn
 
 ace.js embeded to edit.html.gz and renamed long theme name to duru
 
+---listing directories may delay 20 seconds---
+
 orginal code from here
 https://github.com/me-no-dev/ESPAsyncWebServer
 
