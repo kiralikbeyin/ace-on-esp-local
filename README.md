@@ -3,14 +3,17 @@ ace files without cdn
 
 ace.js embeded to edit.html.gz and renamed long theme name to duru
 
----listing directories may delay 20 seconds---
+*****
+Different browsers response are not same for listing directories. 
+Mac -> chrome and firefox are ok but safari may delay or not show dir list.
+*****
 
 orginal code from here
 https://github.com/me-no-dev/ESPAsyncWebServer
 
 you can serve edit.html.gz file and use with ;
 
-
+if you dont want to edit json files ignore json plugin files...
 ```
 
 
