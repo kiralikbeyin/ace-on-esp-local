@@ -6,14 +6,20 @@ ace.js embeded to edit.html.gz and renamed long theme name to duru
 *****
 Different browsers response are not same for listing directories. 
 Mac -> chrome and firefox are ok but safari may delay or not show dir list.
+If dir list is empty you can use Show Directory button.
 *****
+You may need reload page 3-4 times to finish caching.
+
+http://192.168.4.1/edit
 
 orginal code from here
 https://github.com/me-no-dev/ESPAsyncWebServer
 
-you can serve edit.html.gz file and use with ;
 
 if you dont want to edit json files ignore json plugin files...
+
+you can serve edit.html.gz file and use with ;
+
 ```
 
 
